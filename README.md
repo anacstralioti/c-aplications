@@ -1,44 +1,44 @@
-<h1>Exercício de criação de aplicações em C</h1>
+<h1>Aplications in C</h1>
 
-<h2>Encomendas de Docinhos</h2>
-<p>Objetivo: Desenvolver um programa em C que simule uma fábrica de docinhos e aceite encomendas.</p>
-<p>Requisitos (funções):</p>
+<h2>Candy Orders Application</h2>
+<p>Objective: Develop a C program that simulates a candy factory and accepts orders.</p>
+<p>Requirements (functionalities):</p>
 <ul>
-  <li>mostrarOpcoes: mostrar as informações iniciais da doceria e os produtos oferecidos;</li>
-  <li>fazerPedido: ler a quantidade desejada de um doce informado;</li>
-  <li>calcularPedido: fazer o cálculo orçamentário do pedido do usuário;</li>
-  <li>mostrarResultados: apresentar o orçamento calculado.</li>
+  <li>showOptions: Display the initial information about the candy shop and the products offered;</li>
+  <li>placeOrder: Read the desired quantity of a specified candy;</li>
+  <li>calculateOrder: Calculate the estimated cost of the user's order;</li>
+  <li>showResults: Display the calculated cost.</li>
 </ul>
-<h2>Encomendas de Camisetas</h2>
-<p>Objetivo: Desenvolver um programa em C que simule uma fábrica de camisetas e aceite encomendas.</p></p>
-<p>Requisitos (funções):</p>
+<h2>T-shirt Orders Application</h2>
+<p>Objective: Develop a C program that simulates a T-shirt factory and accepts orders.</p>
+<p>Requirements (functionalities):</p>
 <ul>
-  <li>mostrarOpcoes: mostrar as informações iniciais e os produtos oferecidos;</li>
-  <li>fazerPedido: ler a quantidade desejada de uma camiseta;</li>
-  <li>calcularPedido: fazer o cálculo orçamentário do pedido do usuário;</li>
-  <li>mostrarResultados: apresentar o orçamento calculado.</li>
+  <li>showOptions: Display the initial information and the products offered;</li>
+  <li>placeOrder: Read the desired quantity of a T-shirt;</li>
+  <li>calculateOrder: Calculate the estimated cost of the user's order;</li>
+  <li>showResults: Display the calculated cost.</li>
 </ul>
 <h2>Quiz The Bear</h2>
-<p>Objetivo: Desenvolver um programa em C que simule um quiz interativo, fazendo perguntas sobre um tema específico e fornecendo feedback sobre as respostas dos usuários.</p>
-<p>Requisitos:</p>
+<p>Objective: Develop a C program that simulates an interactive quiz, asking questions on a specific theme and providing feedback on the user's answers.</p>
+<p>Requirements:</p>
 <ul>
-  <li>O programa deve conter pelo menos 5 perguntas diferentes;</li>
-  <li>Cada pergunta deve ter pelo menos 3 opções de resposta;</li>
-  <li>O programa deve ser interativo, apresentando as perguntas, coletando as respostas dos usuários e fornecendo feedback imediato sobre a correção de cada resposta;</li>
-  <li>O programa deve rastrear a pontuação do usuário à medida que ele responde às perguntas;</li>
-  <li>Após responder a todas as perguntas, o programa deve exibir a pontuação final do usuário;</li>
-  <li>O programa deve modularizar o código criando uma função separada para cada questão;</li>
-  <li>O programa deve apresentar os caracteres textuais corretos e com acentuação.</li>
+  <li>The program should contain at least 5 different questions;</li>
+  <li>Each question should have at least 3 answer options;</li>
+  <li>The program should be interactive, presenting the questions, collecting the user’s answers, and providing immediate feedback on whether the answer was correct;</li>
+  <li>The program should track the user’s score as they answer the questions;</li>
+  <li>After answering all the questions, the program should display the user’s final score;</li>
+  <li>The program should modularize the code by creating a separate function for each question;</li>
+  <li>The program should display the correct textual characters with proper accents.</li>
 </ul>
-<h2>Sistema Bancário</h2>
-<p>Objetivo: Desenvolver um programa em C que simule um sistema bancário, oferecendo funcionalidades como abertura de contas, depósitos, saques, pagamentos e consulta de extrato.</p>
-<p>Requisitos:</p>
-<ul>
-  <li>Gestão de conta única por execução;</li>
-  <li>Criação de Conta;</li>
-  <li>Confirmação de Operações;</li>
-  <li>Depósitos, saques, pagamentos;</li>
-  <li>Exibir Extrato;</li>
-  <li>Modularização do Código;</li>
-  <li>Feedback Interativo</li>
+<h2>Banking System</h2>
+<p>Objective: Develop a C program that simulates a banking system, offering functionalities such as account creation, deposits, withdrawals, payments, and statement inquiries.</p>
+<p>Requirements (functionalities):</p>
+ul>
+  <li>Management of a single account per execution.</li>
+  <li>Account creation;</li>
+  <li>Operation confirmation;</li>
+  <li>Deposits, withdrawals, payments;</li>
+  <li>Display statement;</li>
+  <li>Code modularization;</li>
+  <li>Interactive feedback.</li>
 </ul>
