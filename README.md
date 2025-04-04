@@ -1,4 +1,4 @@
-<h1>Aplications in C</h1>
+<h1>Applications in C</h1>
 
 <h2>Candy Orders Application</h2>
 <p>Objective: Develop a C program that simulates a candy factory and accepts orders.</p>
