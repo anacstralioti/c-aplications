@@ -33,7 +33,7 @@
 <h2>Banking System</h2>
 <p>Objective: Develop a C program that simulates a banking system, offering functionalities such as account creation, deposits, withdrawals, payments, and statement inquiries.</p>
 <p>Requirements (functionalities):</p>
-ul>
+<ul>
   <li>Management of a single account per execution.</li>
   <li>Account creation;</li>
   <li>Operation confirmation;</li>
