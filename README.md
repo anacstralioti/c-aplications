@@ -1,6 +1,6 @@
 <h1>Exercício de criação de aplicações em C</h1>
 
-<h2>Exercício 1 - Encomendas de Docinhos</h2>
+<h2>Encomendas de Docinhos</h2>
 <p>Objetivo: Desenvolver um programa em C que simule uma fábrica de docinhos e aceite encomendas.</p>
 <p>Requisitos (funções):</p>
 <ul>
@@ -9,7 +9,7 @@
   <li>calcularPedido: fazer o cálculo orçamentário do pedido do usuário;</li>
   <li>mostrarResultados: apresentar o orçamento calculado.</li>
 </ul>
-<h2>Exercício 2 - Encomendas de Camisetas</h2>
+<h2>Encomendas de Camisetas</h2>
 <p>Objetivo: Desenvolver um programa em C que simule uma fábrica de camisetas e aceite encomendas.</p></p>
 <p>Requisitos (funções):</p>
 <ul>
@@ -18,7 +18,7 @@
   <li>calcularPedido: fazer o cálculo orçamentário do pedido do usuário;</li>
   <li>mostrarResultados: apresentar o orçamento calculado.</li>
 </ul>
-<h2>Exercício 3 - Quiz The Bear</h2>
+<h2>Quiz The Bear</h2>
 <p>Objetivo: Desenvolver um programa em C que simule um quiz interativo, fazendo perguntas sobre um tema específico e fornecendo feedback sobre as respostas dos usuários.</p>
 <p>Requisitos:</p>
 <ul>
@@ -30,7 +30,7 @@
   <li>O programa deve modularizar o código criando uma função separada para cada questão;</li>
   <li>O programa deve apresentar os caracteres textuais corretos e com acentuação.</li>
 </ul>
-<h2>Exercício 4 - Sistema Bancário</h2>
+<h2>Sistema Bancário</h2>
 <p>Objetivo: Desenvolver um programa em C que simule um sistema bancário, oferecendo funcionalidades como abertura de contas, depósitos, saques, pagamentos e consulta de extrato.</p>
 <p>Requisitos:</p>
 <ul>
