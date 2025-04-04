@@ -5,13 +5,13 @@
 void mostrarOpcoes(){
     printf("********************************************\n");
     printf("*    Programa de Encomendas de Docinhos    *\n");
-    printf("*             Preço Unitário               *\n");
+    printf("*             Preï¿½o Unitï¿½rio              *\n");
     printf("********************************************\n");
     printf("*          Brigadeiro:   R$ 0,50           *\n");
     printf("*------------------------------------------*\n");
     printf("*          Beijinho:     R$ 0,50           *\n");
     printf("*------------------------------------------*\n");
-    printf("*          Dedo de Moça: R$ 0,75           *\n");
+    printf("*          Dedo de Moï¿½a: R$ 0,75          *\n");
     printf("*------------------------------------------*\n");
     printf("*          Cajuzinho:    R$ 1,00           *\n");
     printf("********************************************\n");
@@ -31,7 +31,7 @@ float calcularPedido(int qtdBrigadeiro, int qtdBeijinho, int qtdDedoMoca, int qt
 
 void mostrarResultados(float valorTotal){
     printf("\n********************************************\n");
-    printf("\nValor total da encomenda será: R$%.2f\n", valorTotal);
+    printf("\nValor total da encomenda serï¿½: R$%.2f\n", valorTotal);
 }
 int main(){
     setlocale(LC_ALL, "Portuguese");
@@ -40,7 +40,7 @@ int main(){
     mostrarOpcoes();
     qtdBrigadeiro = fazerPedido("Brigadeiros");
     qtdBeijinho = fazerPedido("Beijinhos");
-    qtdDedoMoca = fazerPedido("Dedo de Moças");
+    qtdDedoMoca = fazerPedido("Dedo de Moï¿½as");
     qtdCajuzinho = fazerPedido("Cajuzinhos");
     total = calcularPedido(qtdBrigadeiro, qtdBeijinho, qtdDedoMoca, qtdCajuzinho);
     mostrarResultados(total);
